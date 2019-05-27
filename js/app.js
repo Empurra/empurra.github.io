@@ -24,9 +24,9 @@ $(document).ready(function () {
     var vezesJogadas = parseInt($('#played').html(), 10);
     $('#played').html(++vezesJogadas);
 
-	//teste jogo = 4
+	//teste jogo = 3
 	
-	if (vezesJogadas == 4)
+	if (vezesJogadas == 3)
 	{
 		
 		//Gerar um número aleatório e setar a imagem
