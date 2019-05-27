@@ -5,9 +5,9 @@ $(document).ready(function () {
   //Configurações da aplicação!
   var tema = 0;
   var imagens = [
-    "../img/pedra.png",
-    "../img/papel.png",
-    "../img/tesoura.png",
+    "../img/pedra.PNG",
+    "../img/papel.PNG",
+    "../img/tesoura.PNG",
     "../img/proibido.png"
   ];
 
