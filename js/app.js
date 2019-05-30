@@ -5,10 +5,10 @@ $(document).ready(function () {
   //Configurações da aplicação!
   var tema = 0;
   var imagens = [
-    "img/pedra.png",
-    "img/papel.png",
-    "img/tesoura.png",
-    "img/proibido.png"
+    "https://empurra.github.io/img/pedra.png",
+    "https://empurra.github.io/img/papel.png",
+    "https://empurra.github.io/img/tesoura.png",
+    "https://empurra.github.io/img/proibido.png"
   ];
 
   //Setando as imagens
